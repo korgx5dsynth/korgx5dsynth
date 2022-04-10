@@ -33,7 +33,7 @@ The list of proposals are [here](https://eips.ethereum.org/all).
 
 Currently work-in-progress to gather the twitter accounts, github accounts, etc of key individuals.
 
-### Vitalik Buteren
+### Vitalik Buterin
 
 [github](https://github.com/vbuterin)
 
